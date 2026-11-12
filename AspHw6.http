@@ -1,0 +1,6 @@
+@AspHw6_HostAddress = http://localhost:5075
+
+GET {{AspHw6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
